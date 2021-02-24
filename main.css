@@ -1,0 +1,13 @@
+html {
+  background-color: #001C49;
+  font-size: 30px; 
+  font-family: 'Lato', sans-serif;
+}
+
+p, li {
+  color: #9bcfd0;
+}
+
+h1, h2, h3 {
+  color:#BF8AC2;
+}
